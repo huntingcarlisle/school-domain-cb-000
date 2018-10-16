@@ -8,6 +8,7 @@ class School
   
   def add_student(name, age)
     @roster << age: name
+  end
   
   
 end
